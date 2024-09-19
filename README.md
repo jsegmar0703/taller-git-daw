@@ -1,2 +1,2 @@
 # taller-git-daw
-descripciom
+Repositorio en el taller de git en DAW
