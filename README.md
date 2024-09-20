@@ -5,4 +5,3 @@ Repositorio en el taller de git en DAW
 
 holi 
 esto es una prueba de pull
-, Mas pruebas
